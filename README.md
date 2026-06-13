@@ -1,4 +1,12 @@
 # Context Menu Text Replacer
+## Before
+
+(картинка)
+
+## After
+
+(картинка)
+
 
 A Windhawk mod that replaces shortened labels in the classic Windows context menu.
 
