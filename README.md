@@ -1,21 +1,18 @@
 # Context Menu Text Replacer
 ## Before
 
-(картинка)
+![Before](screenshots/before.jpg)
 
 ## After
 
-(картинка)
-
+![After](screenshots/after.jpg)
 
 A Windhawk mod that replaces shortened labels in the classic Windows context menu.
 
 Current replacements:
-
-Переим. -> Переименовать
-
+```
+Переим.    -> Переименовать
 Созд. ярлык -> Создать ярлык
-
-Копир. -> Копировать
-
+Копир.     -> Копировать
+```
 Tested on Windows 11 25H2.
