@@ -11,8 +11,8 @@ A Windhawk mod that replaces shortened labels in the classic Windows context men
 
 Current replacements:
 ```
-Переим.    -> Переименовать
+Переим.     -> Переименовать
 Созд. ярлык -> Создать ярлык
-Копир.     -> Копировать
+Копир.      -> Копировать
 ```
 Tested on Windows 11 25H2.
